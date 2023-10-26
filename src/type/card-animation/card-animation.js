@@ -1,7 +1,7 @@
 import "./card-animation.css";
 
-const Card = require("../asset/card.jpg");
-const Model = require("../asset/model.png");
+const Card = require("../../asset/card.jpg");
+const Model = require("../../asset/model.png");
 
 export default function CardAnimation() {
   return (
